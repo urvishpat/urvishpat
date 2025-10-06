@@ -1,7 +1,4 @@
-<!-- Banner Section -->
-<p align="center">
-  <img src=raw.githubusercontent.com/urvishpatel/urvishpatel/main/banner.png alt="Urvish Patel Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hey there 👋, I'm Urvish Patel</h1>
 <h3 align="center">🌐 Network Engineer | CCNA | CCNP | Network Security | Ruckus Wireless | Cisco Wireless | Ivanti Pulse Secure | Fortinet</h3>
@@ -19,12 +16,7 @@
 - 💬 **Interests:** Cloud Networking (AWS | GCP | Azure), Network Automation  
 - 📝 **Goal:** Building scalable, reliable, secure, and automated networks for the future 🌍  
 
-</td>
-<td align="center">
-  <img src="YOUR_PROFILE_PHOTO_URL_HERE" alt="Urvish Patel" width="250" height="250" style="border-radius: 20px; box-shadow: 0px 0px 10px rgba(0,0,0,0.2);" />
-</td>
-</tr>
-</table>
+
 
 ---
 
@@ -59,13 +51,6 @@
 <a href="https://www.instagram.com/tech_networkk?igsh=MWp2Y2xmOTE0ZzZxeQ==" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urvishpatel&show_icons=true&theme=tokyonight" alt="Urvish Patel GitHub stats" />
 </p>
 
 ---
