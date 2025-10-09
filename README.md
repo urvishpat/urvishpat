@@ -10,13 +10,18 @@
 <tr>
 <td>
 
-- 🔭 **Current Role:** Network Engineer — handling international client projects with end-to-end configuration, monitoring, and management of enterprise network infrastructures.  
-- 🤝 **Vendors & Technologies:** Cisco | Aruba | Ruckus | Fortinet | VPN | Wireshark | Cacti | Zabbix  
-- 👨‍💻 **Specialties:** Network Design, Implementation, Troubleshooting, and Performance Optimization  
-- 💬 **Interests:** Cloud Networking (AWS | GCP | Azure), Network Automation  
-- 📝 **Goal:** Building scalable, reliable, secure, and automated networks for the future 🌍  
+- 💼 **Current Role:-** Network Engineer | handling international client projects with end-to-end configuration, monitoring, and management of enterprise network infrastructures.  
+- 🌐 **Vendors & Platforms:-** Cisco | Aruba | Ruckus | Fortinet | VPN | Wireshark | Cacti | Zabbix  
+- 👨‍💻 **Specialties:-** Network Design, Implementation, Troubleshooting, and Performance Optimization  
+- 🖥️ **Interests:-** Cloud Networking (AWS | GCP | Azure), Network Automation, Network Security
+- 🎯 **Goal:-** Building scalable, reliable, secure, and automated networks for the future 
 
-
+</td>
+<td align="center">
+  <img src="WhatsApp Image 2025-10-06 at 11.32.35_73dd4b75.jpg" alt="Urvish Patel" width="250" height="250" style="border-radius: 20px; box-shadow: 0px 0px 10px rgba(0,0,0,0.2);" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -55,4 +60,4 @@
 
 ---
 
-⭐ **“Connecting the world through networks — one packet at a time.”** 🚀
+⭐️ *“Striving to make networks faster, smarter, and more secure — one configuration at a time.”*
